@@ -2,6 +2,8 @@
 
 This is the exercise app for first chapter of book "[Fullstack Reack](https://www.fullstackreact.com "Fullstack React")" by [fullstack.io](https://www.fullstack.io/ "fullstack.io official site")
 
+![React voting app](https://raw.githubusercontent.com/mimukit/react-voting-app/master/screenshot/screenshot.png)
+
 ## Exercises done by me:
 
 - Add down-voting capability to each Product. You can insert a down arrow with this
