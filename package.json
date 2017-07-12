@@ -1,0 +1,17 @@
+{
+  "name": "react-voting-app",
+  "version": "1.0.0",
+  "author": "MI MUKIT",
+  "scripts": {
+    "go": "open http://localhost:3000; npm run server",
+    "start": "yarn run server",
+    "server": "http-server . -p 3000"
+  },
+  "private": true,
+  "dependencies": {
+    "http-server": "0.9.0"
+  },
+  "devDependencies": {
+    "concurrently": "2.2.0"
+  }
+}

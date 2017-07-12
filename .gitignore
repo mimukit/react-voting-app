@@ -1,0 +1,5 @@
+reports/
+tests_output/
+node_modules/
+.vscode/
+npm-debug.log.*
